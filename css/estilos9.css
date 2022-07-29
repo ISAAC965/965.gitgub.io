@@ -1,0 +1,57 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background:white;
+}
+
+h1 {
+	font-size: 70px;
+	color: #00610B;
+	font-family: "Copperplate Gothic Bold";
+	text-align: center;
+	background: white;
+	background:#38FFF6;
+}
+h2 {
+	font-size: 40px;
+	color: black;
+	font-family: "Copperplate Gothic Bold";
+	text-align: center;
+}
+p{
+	font-size:18px;
+	color: black;
+	font-family: "Arial";
+text-align:left;
+}
+
+h3 {
+	font-size: 40px;
+	color: black;
+	font-family: "Copperplate Gothic Bold";
+	text-align: center;
+}
+h4 {
+	font-size: 40px;
+	color: black;
+	font-family: "Copperplate Gothic Bold";
+	text-align: center;
+}
+.image9 {
+	float:right; 
+	position: relative;
+	width: 100px;
+	height: 100px;
+	left: -800px;
+
+
+
+}
+nav ul{
+	background:;
+	width:94%;
+	text-align:center;
+	font-size: 26px;

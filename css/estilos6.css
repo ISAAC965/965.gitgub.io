@@ -1,0 +1,37 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+
+
+h1 {
+	font-size:80px;
+	color:#00610B;
+	font-family: "Copperplate Gothic Bold";
+text-align:center;
+background:#38FFF6;
+}
+
+h3{
+	font-size:40px;
+	color: black;
+	font-family: "Copperplate Gothic Bold";
+text-align:center;
+}
+p{
+	font-size:18px;
+	color: black;
+	font-family: "Arial";
+text-align:center;
+}
+.image1 {
+	float:right; 
+	position: relative;
+	width: 100px;
+	height: 100px;
+	left: -900px;
+
+
+
+}
